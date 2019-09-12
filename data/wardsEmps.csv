@@ -1,0 +1,627 @@
+ward,borough,emp
+Abbey,Barking and Dagenham,9500
+Acton Central,Ealing,3000
+Abbey Wood,Greenwich,1800
+Abingdon,Kensington and Chelsea,6900
+Abbey,Merton,10800
+Abbey Road,Westminster,3800
+Queen's Park,Westminster,1900
+Gascoigne,Waltham Forest,2900
+Goresbrook,Waltham Forest,1300
+Heath,Waltham Forest,3100
+High Barnet,Waltham Forest,6800
+Golders Green,Waltham Forest,6200
+Garden Suburb,Waltham Forest,6000
+Finchley Church End,Waltham Forest,6000
+Hale,Waltham Forest,3000
+Hendon,Waltham Forest,8300
+Lesnes Abbey,Waltham Forest,700
+Erith,Waltham Forest,6000
+Falconwood and Welling,Waltham Forest,1800
+Kilburn,Waltham Forest,3000
+Kenton,Waltham Forest,2900
+Fryent,Waltham Forest,4300
+Kensal Green,Waltham Forest,2000
+Harlesden,Waltham Forest,2200
+Hayes and Coney Hall,Waltham Forest,3700
+Kelsey and Eden Park,Waltham Forest,4100
+Farnborough and Crofton,Waltham Forest,6600
+Kilburn,Waltham Forest,3900
+King's Cross,Waltham Forest,18200
+Kentish Town,Waltham Forest,11600
+Highgate,Waltham Forest,2500
+Holborn and Covent Garden,Waltham Forest,114000
+Fortune Green,Waltham Forest,2300
+Frognal and Fitzjohns,Waltham Forest,5600
+Gospel Oak,Waltham Forest,2800
+Hampstead Town,Waltham Forest,11300
+Haverstock,Waltham Forest,2700
+Kenley,Waltham Forest,2400
+Heathfield,Waltham Forest,2300
+Fairfield,Waltham Forest,31500
+Fieldway,Waltham Forest,500
+Lady Margaret,Waltham Forest,1100
+Greenford Broadway,Waltham Forest,4800
+Hobbayne,Waltham Forest,1500
+Greenford Green,Waltham Forest,8800
+Hanger Hill,Waltham Forest,9400
+Highlands,Waltham Forest,5300
+Grange,Waltham Forest,5800
+Jubilee,Waltham Forest,2300
+Haselbury,Waltham Forest,1900
+Kidbrooke with Hornfair,Waltham Forest,1600
+Greenwich West,Waltham Forest,8000
+Glyndon,Waltham Forest,3500
+Hoxton East & Shoreditch,Waltham Forest,10100
+Haggerston,Waltham Forest,34000
+Hackney Wick,Waltham Forest,1400
+Hackney Downs,Waltham Forest,1400
+Hoxton West,Waltham Forest,10100
+Hackney Central,Waltham Forest,6900
+Homerton,Waltham Forest,34000
+Fulham Broadway,Waltham Forest,4300
+Hammersmith Broadway,Waltham Forest,31300
+Fulham Reach,Waltham Forest,7200
+Highgate,Waltham Forest,3300
+Harringay,Waltham Forest,2600
+Fortis Green,Waltham Forest,2700
+Hornsey,Waltham Forest,3300
+Kenton West,Waltham Forest,3300
+Kenton East,Waltham Forest,1300
+Harrow on the Hill,Waltham Forest,4900
+Greenhill,Waltham Forest,18800
+Headstone North,Waltham Forest,2000
+Harrow Weald,Waltham Forest,2200
+Hatch End,Waltham Forest,2800
+Headstone South,Waltham Forest,2200
+Hacton,Waltham Forest,2100
+Harold Wood,Waltham Forest,5900
+Havering Park,Waltham Forest,1700
+Heaton,Waltham Forest,2400
+Gooshays,Waltham Forest,2200
+Hylands,Waltham Forest,3500
+Heathrow Villages,Waltham Forest,57300
+Harefield,Waltham Forest,4400
+Hillingdon East,Waltham Forest,5400
+Ickenham,Waltham Forest,2800
+Hanworth,Waltham Forest,3500
+Heston West,Waltham Forest,5200
+Heston East,Waltham Forest,3200
+Feltham West,Waltham Forest,4900
+Hanworth Park,Waltham Forest,8900
+Feltham North,Waltham Forest,8200
+Hounslow Heath,Waltham Forest,3200
+Hounslow West,Waltham Forest,3500
+Heston Central,Waltham Forest,1400
+Hounslow South,Waltham Forest,1100
+Isleworth,Waltham Forest,4500
+Hounslow Central,Waltham Forest,12000
+Holloway,Waltham Forest,4500
+Highbury East,Waltham Forest,3300
+Highbury West,Waltham Forest,5000
+Junction,Waltham Forest,9600
+Finsbury Park,Waltham Forest,7100
+Hillrise,Waltham Forest,1100
+Holland,Waltham Forest,3100
+Golborne,Waltham Forest,5300
+Grove,Waltham Forest,23000
+Larkhall,Waltham Forest,4700
+Knight's Hill,Waltham Forest,2700
+Ferndale,Waltham Forest,4600
+Gipsy Hill,Waltham Forest,2000
+Herne Hill,Waltham Forest,12000
+Lewisham Central,Waltham Forest,10900
+Lee Green,Waltham Forest,2600
+Ladywell,Waltham Forest,1600
+Forest Hill,Waltham Forest,2700
+Grove Park,Waltham Forest,1600
+Evelyn,Waltham Forest,3200
+Lavender Fields,Waltham Forest,1600
+Figge's Marsh,Waltham Forest,1800
+Graveney,Waltham Forest,1600
+Hillside,Waltham Forest,8600
+Forest Gate South,Waltham Forest,3400
+Green Street West,Waltham Forest,4100
+Green Street East,Waltham Forest,1800
+Forest Gate North,Waltham Forest,1600
+Fairlop,Waltham Forest,3000
+Goodmayes,Waltham Forest,2300
+Hainault,Waltham Forest,3500
+Fullwell,Waltham Forest,2000
+Kew,Waltham Forest,4300
+Hampton,Waltham Forest,4100
+Hampton Wick,Waltham Forest,3300
+Heathfield,Waltham Forest,1300
+"Ham, Petersham and Richmond Riverside",Waltham Forest,2700
+Hampton North,Waltham Forest,2200
+Fulwell and Hampton Hill,Waltham Forest,4900
+Faraday,Waltham Forest,1400
+Grange,Waltham Forest,16800
+Lansbury,Waltham Forest,2700
+Island Gardens,Waltham Forest,2700
+Leyton,Waltham Forest,5700
+Lea Bridge,Waltham Forest,6100
+Larkswood,Waltham Forest,2300
+Leytonstone,Waltham Forest,3800
+High Street,Waltham Forest,3600
+Higham Hill,Waltham Forest,3300
+Grove Green,Waltham Forest,1100
+Forest,Waltham Forest,10500
+Hoe Street,Waltham Forest,3100
+Hale End and Highams Park,Waltham Forest,6400
+Hatch Lane,Waltham Forest,1600
+Latchmere,Waltham Forest,2600
+Graveney,Waltham Forest,3600
+Furzedown,Waltham Forest,1600
+Fairfield,Waltham Forest,8300
+Lancaster Gate,Waltham Forest,7900
+Knightsbridge and Belgravia,Waltham Forest,34300
+Hyde Park,Waltham Forest,30000
+Harrow Road,Waltham Forest,2200
+Longbridge,Redbridge,1300
+Longlands,Redbridge,3600
+Lower Edmonton,Redbridge,3000
+London Fields,Redbridge,1600
+Longthornton,Redbridge,900
+Little Ilford,Redbridge,1600
+Livesey,Redbridge,4000
+Limehouse,Redbridge,4000
+Little Venice,Redbridge,2900
+Mayesbrook,Merton,1100
+Parsloes,Merton,700
+Mill Hill,Merton,7300
+Oakleigh,Merton,4400
+North End,Merton,3700
+Northumberland Heath,Merton,1800
+Northwick Park,Merton,6700
+Preston,Merton,3900
+Queens Park,Merton,5100
+Mapesbury,Merton,2200
+Petts Wood and Knoll,Merton,2700
+Penge and Cator,Merton,5000
+Plaistow and Sundridge,Merton,3800
+Mottingham and Chislehurst North,Merton,1200
+Orpington,Merton,6100
+Purley,Merton,4700
+Norbury,Merton,2400
+New Addington,Merton,2200
+Norwood Green,Merton,10200
+Northolt West End,Merton,1600
+North Greenford,Merton,2100
+Northfield,Merton,2200
+Northolt Mandeville,Merton,4100
+Perivale,Merton,6300
+Palmers Green,Merton,3800
+Ponders End,Merton,6500
+Middle Park and Sutcliffe,Merton,2100
+Peninsula,Merton,11400
+Plumstead,Merton,1900
+Palace Riverside,Merton,3500
+Munster,Merton,2200
+Parsons Green and Walham,Merton,7400
+North End,Merton,4900
+Muswell Hill,Merton,3100
+Noel Park,Merton,6300
+Northumberland Park,Merton,8200
+Pinner,Merton,3100
+Pinner South,Merton,1900
+Marlborough,Merton,2900
+Mawneys,Merton,2100
+Pettits,Merton,2200
+Northwood,Merton,5100
+Manor,Merton,1900
+Northwood Hills,Merton,2600
+Pinkwell,Merton,3200
+Osterley and Spring Grove,Merton,19500
+Mildmay,Merton,1700
+Norland,Merton,4600
+Notting Dale,Merton,5300
+Queen's Gate,Merton,13300
+Pembridge,Merton,3900
+Old Malden,Merton,1100
+Norbiton,Merton,4000
+Oval,Merton,12700
+Prince's,Merton,15600
+Perry Vale,Merton,1400
+New Cross,Merton,5500
+Lower Morden,Merton,2100
+Merton Park,Merton,4100
+Pollards Hill,Merton,800
+Plaistow South,Merton,4900
+Plaistow North,Merton,1700
+Manor Park,Merton,1900
+Newbury,Merton,3600
+Loxford,Merton,3200
+Mayfield,Merton,2100
+Monkhams,Merton,3100
+North Richmond,Merton,4500
+Mortlake and Barnes Common,Merton,2600
+Peckham Rye,Merton,1400
+Nunhead,Merton,1200
+Peckham,Merton,1400
+Newington,Merton,6900
+Nonsuch,Merton,2500
+Poplar,Merton,115700
+Mile End,Merton,4000
+Markhouse,Merton,2200
+Nightingale,Merton,3600
+Northcote,Merton,6400
+Marylebone High Street,Merton,67900
+Maida Vale,Merton,1800
+Blackfen and Lamorbey,Harrow,1100
+Blendon and Penhill,Harrow,1500
+Brampton,Harrow,1700
+Belvedere,Harrow,3800
+Brondesbury Park,Harrow,2000
+Bromley Common and Keston,Harrow,5600
+Biggin Hill,Harrow,2600
+Bromley Town,Harrow,23200
+Bickley,Harrow,4300
+Bloomsbury,Harrow,70900
+Belsize,Harrow,3200
+Broad Green,Harrow,11300
+Bensham Manor,Harrow,1800
+Bowes,Harrow,1400
+Blackheath Westcombe,Harrow,2800
+Brownswood,Harrow,1200
+Bounds Green,Harrow,2300
+Bruce Grove,Harrow,2000
+Belmont,Harrow,1500
+Brooklands,Harrow,10000
+Brunel,Harrow,8900
+Botwell,Harrow,11800
+Brentford,Harrow,11500
+Brompton & Hans Town,Harrow,24800
+Berrylands,Harrow,2000
+Beverley,Harrow,4500
+Brixton Hill,Harrow,3900
+Bishop's,Harrow,43400
+Blackheath,Harrow,5600
+Brockley,Harrow,5200
+Boleyn,Harrow,2900
+Bridge,Harrow,2100
+Belmont,Harrow,4300
+Blackwall & Cubitt Town,Harrow,3600
+Bromley South,Harrow,3000
+Bow West,Harrow,3000
+Bow East,Harrow,6200
+Bromley North,Harrow,3000
+Bethnal Green,Harrow,255200
+River,Hackney,5100
+Sidcup,Hackney,6000
+St. Mary's,Hackney,2000
+St. Michael's,Hackney,1100
+Queensbury,Hackney,4600
+Shortlands,Hackney,1100
+St. Pancras and Somers Town,Hackney,17000
+Regent's Park,Hackney,33800
+Selsdon and Ballards,Hackney,2300
+Sanderstead,Hackney,2100
+Shirley,Hackney,1800
+Selhurst,Hackney,6700
+South Norwood,Hackney,2600
+Southall Green,Hackney,3300
+Southall Broadway,Hackney,4300
+South Acton,Hackney,7100
+Southfield,Hackney,4800
+Southgate Green,Hackney,2500
+Southgate,Hackney,6100
+Southbury,Hackney,11000
+Shooters Hill,Hackney,2000
+Springfield,Hackney,1900
+Shacklewell,Hackney,4100
+Stamford Hill West,Hackney,1900
+Sands End,Hackney,7000
+Ravenscourt Park,Hackney,4800
+Shepherd's Bush Green,Hackney,16100
+St. Ann's,Hackney,2300
+Seven Sisters,Hackney,3400
+Roxeth,Hackney,1600
+Rayners Lane,Hackney,2200
+Roxbourne,Hackney,1900
+Queensbury,Hackney,1600
+Rainham and Wennington,Hackney,4800
+South Hornchurch,Hackney,4800
+Romford Town,Hackney,16500
+St. Andrew's,Hackney,5600
+Squirrel's Heath,Hackney,2600
+South Ruislip,Hackney,6000
+St. Mary's,Hackney,12700
+St. Peter's,Hackney,7300
+St. George's,Hackney,2300
+Redcliffe,Hackney,2800
+Royal Hospital,Hackney,5300
+St. Helen's,Hackney,3000
+St. Mark's,Hackney,4300
+St. James,Hackney,2000
+St. Leonard's,Hackney,3700
+Rushey Green,Hackney,6400
+Raynes Park,Hackney,8300
+St. Helier,Hackney,2000
+Ravensbury,Hackney,1800
+Royal Docks,Hackney,6100
+Roding,Hackney,2100
+Seven Kings,Hackney,6800
+Snaresbrook,Hackney,3300
+South Twickenham,Hackney,4300
+St. Margarets and North Twickenham,Hackney,4000
+South Richmond,Hackney,13200
+Riverside,Hackney,46700
+South Camberwell,Hackney,3000
+South Bermondsey,Hackney,2300
+Rotherhithe,Hackney,3400
+St. Helier,Hackney,4300
+St. Katharine's & Wapping,Hackney,3100
+Shadwell,Hackney,3500
+Spitalfields & Banglatown,Hackney,3500
+St. Peter's,Hackney,15300
+St. Dunstan's,Hackney,23700
+Roehampton and Putney Heath,Hackney,4400
+Southfields,Hackney,5700
+St. Mary's Park,Hackney,10400
+Queenstown,Hackney,12200
+Shaftesbury,Hackney,4000
+St. James's,Hackney,214300
+Regent's Park,Hackney,9100
+Enfield Lock,Enfield,4100
+Alibon,Croydon,1000
+Becontree,Croydon,1300
+Barnehurst,Croydon,2200
+Alperton,Croydon,9000
+Barnhill,Croydon,3700
+Ashburton,Croydon,1800
+Addiscombe,Croydon,4000
+Avonmore and Brook Green,Croydon,11300
+Askew,Croydon,2000
+Addison,Croydon,5200
+Alexandra,Croydon,1800
+Barnhill,Croydon,1500
+Bedfont,Croydon,9400
+Barnsbury,Croydon,6600
+Alexandra,Croydon,2500
+Bellingham,Croydon,4700
+Beckton,Croydon,10700
+Aldborough,Croydon,4300
+Barkingside,Croydon,2400
+Barnes,Croydon,2700
+Beddington South,Croydon,2100
+Beddington North,Croydon,9500
+Balham,Croydon,4800
+Bedford,Croydon,1900
+Bayswater,Croydon,4300
+Whalebone,City of London,2700
+Village,City of London,1200
+Valence,City of London,1900
+Woodhouse,City of London,5900
+Underhill,City of London,4900
+West Hendon,City of London,9800
+Totteridge,City of London,5600
+West Finchley,City of London,8700
+Thamesmead East,City of London,4100
+Willesden Green,City of London,3700
+Wembley Central,City of London,6100
+Welsh Harp,City of London,1900
+Tokyngton,City of London,16000
+West Wickham,City of London,3100
+West Hampstead,City of London,4500
+Woodside,City of London,1600
+Waddon,City of London,7700
+West Thornton,City of London,7100
+Thornton Heath,City of London,2100
+Upper Norwood,City of London,2900
+Walpole,City of London,7800
+Winchmore Hill,City of London,3700
+Upper Edmonton,City of London,8500
+Town,City of London,4200
+Turkey Street,City of London,2400
+Woolwich Riverside,City of London,11500
+Woolwich Common,City of London,7900
+Thamesmead Moorings,City of London,5800
+Victoria,City of London,2400
+Wormholt and White City,City of London,1000
+Town,City of London,7000
+Woodside,City of London,4800
+White Hart Lane,City of London,1200
+Tottenham Green,City of London,4600
+West Green,City of London,2100
+Tottenham Hale,City of London,6000
+West Harrow,City of London,3700
+Wealdstone,City of London,2200
+Upminster,City of London,5400
+Yiewsley,City of London,7600
+Yeading,City of London,1600
+West Drayton,City of London,2400
+Uxbridge South,City of London,46500
+Uxbridge North,City of London,9200
+West Ruislip,City of London,5100
+Townfield,City of London,7400
+Turnham Green,City of London,20500
+Tollington,City of London,2500
+Tolworth and Hook Rise,City of London,5200
+Tudor,City of London,1900
+Thornton,City of London,1600
+Tulse Hill,City of London,1800
+Vassall,City of London,3400
+Thurlow Park,City of London,2300
+Whitefoot,City of London,1200
+Wimbledon Park,City of London,5200
+Village,City of London,5200
+West Barnes,City of London,4100
+Trinity,City of London,6900
+West Ham,City of London,1800
+Wall End,City of London,1300
+Wanstead,City of London,1100
+Valentines,City of London,4800
+Whitton,City of London,1400
+Twickenham Riverside,City of London,8400
+West Twickenham,City of London,2100
+Village,City of London,3100
+The Lane,City of London,4900
+Worcester Park,City of London,2700
+Wandle Valley,City of London,2000
+The Wrythe,City of London,1500
+Wallington South,City of London,3200
+Wallington North,City of London,2900
+Whitechapel,City of London,24300
+Weavers,City of London,4400
+William Morris,City of London,2500
+Wood Street,City of London,2300
+Valley,City of London,3300
+Thamesfield,City of London,10900
+Wandsworth Common,City of London,3700
+West Hill,City of London,2400
+West Putney,City of London,1800
+Tooting,City of London,14100
+Vincent Square,City of London,26700
+West End,City of London,217900
+Warwick,City of London,24200
+Westbourne,City of London,217900
+Eastbury,Barnet,1200
+Eastbrook,Barnet,4000
+Chadwell Heath,Barnet,1900
+East Finchley,Barnet,4200
+Edgware,Barnet,6900
+East Barnet,Barnet,3700
+Colindale,Barnet,9000
+Childs Hill,Barnet,7000
+Coppetts,Barnet,3800
+Brunswick Park,Barnet,3900
+Burnt Oak,Barnet,2800
+East Wickham,Barnet,1300
+Danson Park,Barnet,2800
+Cray Meadows,Barnet,7200
+Crayford,Barnet,7300
+Christchurch,Barnet,8800
+Colyers,Barnet,800
+Dudden Hill,Barnet,3700
+Dollis Hill,Barnet,6000
+Darwin,Barnet,1500
+Crystal Palace,Barnet,1900
+Chelsfield and Pratts Bottom,Barnet,3600
+Clock House,Barnet,3400
+Copers Cope,Barnet,4900
+Chislehurst,Barnet,4800
+Cray Valley West,Barnet,4600
+Cray Valley East,Barnet,7300
+Camden Town with Primrose Hill,Barnet,16100
+Cantelowes,Barnet,2800
+Coulsdon East,Barnet,2700
+Coulsdon West,Barnet,3700
+Croham,Barnet,5100
+Dormers Wells,Barnet,1600
+East Acton,Barnet,18900
+Elthorne,Barnet,3900
+Ealing Common,Barnet,3100
+Ealing Broadway,Barnet,11900
+Cleveland,Barnet,2600
+Edmonton Green,Barnet,7500
+Enfield Highway,Barnet,8600
+Chase,Barnet,4200
+Cockfosters,Barnet,3600
+Bush Hill Park,Barnet,2200
+Eltham South,Barnet,5500
+Eltham West,Barnet,1600
+Eltham North,Barnet,3400
+Coldharbour and New Eltham,Barnet,1500
+Charlton,Barnet,2400
+De Beauvoir,Barnet,4200
+Dalston,Barnet,5100
+Clissold,Barnet,1600
+Cazenove,Barnet,1800
+College Park and Old Oak,Barnet,15400
+Crouch End,Barnet,3700
+Edgware,Barnet,2800
+Canons,Barnet,5200
+Elm Park,Barnet,1200
+Emerson Park,Barnet,2200
+Cranham,Barnet,1900
+Eastcote and East Ruislip,Barnet,2500
+Charville,Barnet,4100
+Cavendish,Barnet,2500
+Cranford,Barnet,5600
+Chiswick Homefields,Barnet,6800
+Chiswick Riverside,Barnet,2200
+Clerkenwell,Barnet,58100
+Caledonian,Barnet,17000
+Bunhill,Barnet,68100
+Canonbury,Barnet,1600
+Dalgarno,Barnet,3600
+Earl's Court,Barnet,5300
+Chelsea Riverside,Barnet,7700
+Colville,Barnet,4200
+Courtfield,Barnet,4800
+Campden,Barnet,7700
+Chessington South,Barnet,5300
+Coombe Hill,Barnet,7200
+Chessington North and Hook,Barnet,2000
+Canbury,Barnet,5200
+Coombe Vale,Barnet,1900
+Clapham Common,Barnet,8200
+Coldharbour,Barnet,5500
+Clapham Town,Barnet,6200
+Downham,Barnet,2200
+Catford South,Barnet,3100
+Crofton Park,Barnet,2300
+Dundonald,Barnet,5300
+Cannon Hill,Barnet,1300
+Cricket Green,Barnet,5400
+Colliers Wood,Barnet,3400
+East Ham South,Barnet,2600
+Custom House,Barnet,3300
+East Ham Central,Barnet,3900
+East Ham North,Barnet,2000
+Canning Town North,Barnet,7100
+Canning Town South,Barnet,2700
+Cranbrook,Barnet,3200
+Clementswood,Barnet,8500
+Clayhall,Barnet,3700
+Church End,Barnet,4500
+Chadwell,Barnet,2500
+East Sheen,Barnet,3500
+East Dulwich,Barnet,2700
+East Walworth,Barnet,4100
+College,Barnet,1900
+Camberwell Green,Barnet,5400
+Brunswick Park,Barnet,6700
+Cathedrals,Barnet,65500
+Chaucer,Barnet,18000
+Carshalton South and Clockhouse,Barnet,1900
+Cheam,Barnet,3800
+Carshalton Central,Barnet,2600
+Canary Wharf,Barnet,4100
+Endlebury,Barnet,1300
+Chingford Green,Barnet,3500
+Cathall,Barnet,1500
+Chapel End,Barnet,4100
+Cann Hall,Barnet,1500
+East Putney,Barnet,4100
+Earlsfield,Barnet,5900
+Churchill,Barnet,3500
+Bryanston and Dorset Square,Barnet,29300
+Church Street,Barnet,4700
+Thames,Barking and Dagenham,9700
+Stonebridge,Barking and Dagenham,19800
+Sudbury,Barking and Dagenham,2700
+Swiss Cottage,Barking and Dagenham,4400
+Stoke Newington,Barking and Dagenham,1900
+Stroud Green,Barking and Dagenham,1400
+Stanmore Park,Barking and Dagenham,3700
+Syon,Barking and Dagenham,8300
+Stanley,Barking and Dagenham,13500
+Surbiton Hill,Barking and Dagenham,2100
+Streatham South,Barking and Dagenham,1500
+Streatham Wells,Barking and Dagenham,2700
+Streatham Hill,Barking and Dagenham,1800
+Stockwell,Barking and Dagenham,2800
+Telegraph Hill,Barking and Dagenham,2300
+Sydenham,Barking and Dagenham,2700
+Stratford and New Town,Barking and Dagenham,24800
+Teddington,Barking and Dagenham,8400
+Surrey Docks,Barking and Dagenham,2700
+Sutton South,Barking and Dagenham,3900
+Sutton West,Barking and Dagenham,1900
+Sutton Central,Barking and Dagenham,16000
+Sutton North,Barking and Dagenham,1700
+Stonecot,Barking and Dagenham,2900
+Stepney Green,Barking and Dagenham,15300
+Tachbrook,Barking and Dagenham,2600
